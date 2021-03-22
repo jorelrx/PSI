@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Servico.dll
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Servico.pdb
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Modelo.dll
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\obj\Debug\Servico.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\obj\Debug\Servico.dll
+C:\Users\Usuario\Documents\GitHub\PSI\Projeto01\Servico\obj\Debug\Servico.pdb
